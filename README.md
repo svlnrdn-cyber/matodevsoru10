@@ -1,6 +1,6 @@
 <pre>
 #include &lt;iostream&gt;
-#include '<cmath>'
+#include &lt;cmath&gt;
 
 using namespace std;
 
